@@ -1,0 +1,22 @@
+Developer Account: 
+Email: brothersmedia190@gmail.com
+Password: ِِAbdo1379
+
+
+https://www.sandbox.paypal.com/signin
+
+Sandbox - Personal:
+abdo@per.com
+Abdo1379
+
+Sandbox - Business:
+abdo@biz.com
+Abdo1379
+
+API Credential:
+APP Name: HOTEL_APP_NEW
+abdo@biz.com
+Client ID:
+AY1UQMOlIPmKaE-ZQt6QFrrvVEnklbtDT2F448KsDsgaRHB95vXY0qp2mPPghjx9GE3kj_fYHI35eoa-
+Secret:
+EPsWKq8VqhMn8hYTVFukdib3EALjYPzwMmSAHkjL-MeKLYopbkKby_zd3iWi2bpF2fi_MljtU3NgffNM
